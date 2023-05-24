@@ -3,4 +3,4 @@ title: Home
 layout: home
 ---
 
-Dragonsworn is Adventure game
+¡Próximamente sitio de Dragonsworn Adventure Game!
