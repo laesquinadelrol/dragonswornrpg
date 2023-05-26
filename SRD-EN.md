@@ -5,12 +5,17 @@ has_children: false
 nav_exclude: false
 nav_order: 2
 ---
+ 
+ <img src="/imagenes/portada/DAG-logo.jpg" style="zoom:20%;" />
+ 
 {: .highlight }
 > The document is a condensed version of the **Dragonsworn Adventure Game** rules that you can use to create your own **Powered by Dragonsworns** solo and co-op fantasy games.
 >
->Inspired by: *Cairn* by Yochai Gal, and *Ironsworn* by Shawn Tomkin.
+> Written by La esquina del rol
 >
-> The full text of the Condensed SRD is licensed by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0). 
+> Inspired by: *Cairn* by Yochai Gal, and *Ironsworn* by Shawn Tomkin.
+>
+> The full text of the Condensed SRD (Not Artwork included) is licensed by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0). 
 
 # SYSTEM REFERENCE DOCUMENT
 
