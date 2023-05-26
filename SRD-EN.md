@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SRD Condensed - English
-has_children: true
+has_children: false
 nav_exclude: false
 nav_order: 2
 ---
