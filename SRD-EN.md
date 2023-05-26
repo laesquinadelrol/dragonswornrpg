@@ -12,11 +12,11 @@ The document is a condensed version of the **Dragonsworn Adventure Game** rules 
 
  The full text is licensed by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0).
 
-## System Reference Document
+## SYSTEM REFERENCE DOCUMENT
 
-### Character Creations
+### CHARACTER CREATION
 
-#### Main Stats
+#### MAIN STATS
 
 Your **Player Character** (PC) has 3 **Stats**:
 
@@ -34,7 +34,7 @@ Your **Player Character** (PC) has 3 **Stats**:
 
 > *e.g. Oliver rolled [3][5][6], the first die adds + 1 to Dexterity, and then the second and third dice both add +1 to Presence, for a total of Strength 0, Dexterity 1, and Presence 2.*
 
-#### Secondary Stats
+#### SECONDARY STATS
 
 **Base Value** is a number to generate your PC's **Health** and their **Target Number** (TN). Roll d6+6 to determine your PC's Base Value. 
 
@@ -44,7 +44,7 @@ TN is a value that is determined from the sum of the character’s Base Value an
 
  **Courage** reflects a character’s ability to avoid getting hurt and suffering stress. Courage is equal to 1d6 + [Dexterity + Presence].
 
-#### Inventory
+#### INVENTORY
 
 Your PC has 10 slots + [Strength] of **Inventory**. Only they can hold 2 weapons and 2 Armor. **Bulky Items** take up two slots. Your PC cannot carry more than three Bulky Items.
 
@@ -52,13 +52,13 @@ Your character starting with one random equipment package (example below)
 
 > *E.g. three days rations, exploring gear, climbing gear, brigandine (1 armor, bulky), helmet (+1 armor), long sword (d10 damage, bulky), and Magic Artifact.*
 
-#### Finishing Touches
+#### FINISHING TOUCHES
 
 Name your PC, and write some **Traits** (e. g. background, virtue, vice, etc.).
 
-### Rules
+### RULES
 
-#### Saves
+#### SAVES
 
 A Save is a roll to avoid bad outcomes from risky actions and situations (even in combat maneuvers). When making a Save, go through the following: 
 
@@ -76,35 +76,35 @@ A Save is a roll to avoid bad outcomes from risky actions and situations (even i
 
    - *2+ failures* are a **Fail**. You will face any bad consequences of your actions, or must make serious concessions.
 
-#### Ecumbrance & Bulky Items
+#### ENCUMBRANCE & BULKY ITEMS
 
 If your PC is carrying their full inventory or carries more than 3 bulky items, their Courage is reduced to zero
 
-#### Deprived
+#### DEPRIVED
 
 A PC deprived of a crucial need, such as food or rest, is unable to recover Courage.
 
-#### Healing & Rest
+#### HEALING & REST
 
 A fifteen-minute break will restore the PC's full Courage but leave the PC exposed to danger. Recovering Health requires magical assistance or a week of rest and the help of a healer.
 
-#### Armors
+#### ARMORS
 
 Each armor grants between 1 and 3 armor points for protection. No one can have more than 3 armor.
 
-### Combat
+### COMBAT
 
 In the next combat rules, when an attacker or target is indicated, it refers to both the PC and the opponent
 
-#### Initiative
+#### INITIATIVE
 
 Starting combat, your PC’s make a Dexterity Save to act first. 
 
-#### Turns
+#### TURNS
 
 During the attacker’s turn, they can move and take one action.
 
-#### Attacking & Damage
+#### ATTACKING & DAMAGE
 
 Describe the attacker’s action, roll their **Weapon Die** (d6, d8, or d10), and subtracts the target’s armor, then deals the remaining total to their opponent’s Courage. Damage that reduces a target’s Courage below zero decreases a target’s Health by the remaining amount.
 
@@ -112,11 +112,11 @@ When the target's Health decreases, they must make a Strength Save to avoid a **
 
 **Advantage Attacks** always do d12 damage, and **D****isadvantage Attacks** always do d4. This is independent of the attacker’s Weapon Dice. **Unarmed Attacks** always do d4 damage.
 
-#### Multiple Attackers
+#### MULTIPLE ATTACKERS
 
 If multiple attackers target the same opponent, roll all damage dice and keep the single highest result.
 
-### Magic Artifacts
+### MAGIC ARTIFACTS
 
 **Magic Artifacts** have an imbued spell. Roll two d40s on Tables below to create one spell with its effect from two prompt words.
 
@@ -124,53 +124,54 @@ Magical attacks do d8 damage, although you may have to use a different die (d6 o
 
 Anyone can activate the Magic Artifact once a day, as a normal action, by holding it in two hands and saying the magic words. If the PC is deprived or in danger, make Presence Save.
 
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+| d40  | Word A | Word B |
+| :--: | :----: | :----: |
+|  1   |        |        |
+|  2   |        |        |
+|  3   |        |        |
+|  4   |        |        |
+|  5   |        |        |
+|  6   |        |        |
+|  7   |        |        |
+|  8   |        |        |
+|  9   |        |        |
+|  10  |        |        |
+|  11  |        |        |
+|  12  |        |        |
+|  13  |        |        |
+|  14  |        |        |
+|  15  |        |        |
+|  16  |        |        |
+|  17  |        |        |
+|  18  |        |        |
+|  19  |        |        |
+|  20  |        |        |
+|  21  |        |        |
+|  22  |        |        |
+|  23  |        |        |
+|  24  |        |        |
+|  25  |        |        |
+|  26  |        |        |
+|  27  |        |        |
+|  28  |        |        |
+|  29  |        |        |
+|  30  |        |        |
+|  31  |        |        |
+|  32  |        |        |
+|  33  |        |        |
+|  34  |        |        |
+|  35  |        |        |
+|  36  |        |        |
+|  37  |        |        |
+|  38  |        |        |
+|  39  |        |        |
+|  40  |        |        |
 
-### Growth
+### GROWTH
 
 After fulfilling a quest, roll 1d6 and add to Courage. New skills are only learned in fiction with specialists.
 
-### Oracle
+### ORACLE
 
 The Oracle is like a Save, but TN is equal to 10+Probability (+2 if likely, +1 if otherwise, +0 if unlikely). Rolled 19 or 20 is always a Fail.
 
@@ -178,7 +179,7 @@ The Oracle is like a Save, but TN is equal to 10+Probability (+2 if likely, +1 i
 - **Weak Hit**: Yes, but…
 - **Fail**: No
 
-### Converting Monsters
+### CONVERTING MONSTERS
 
 - Stats: +0 is below average, +1 is average, +2 is above average and +3 is highest.
 - 1 Courage per HD: give average creature 3, hardy ones 6, and serious threats get 10+.
