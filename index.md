@@ -19,8 +19,3 @@ nav_order: 1
 
 [Condensed SRD in English](https://dragonswornrpg.com/SRD-EN.html){: .btn .btn-green }
 [SRD Condensado en Español](https://dragonswornrpg.com/SRD-EN.html){: .btn .btn-blue }
-
-
-
-
-¡Próximamente sitio de Dragonsworn Adventure Game!
