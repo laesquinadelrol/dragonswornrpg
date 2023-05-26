@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD - English
+title: Condensed SRD - English
 has_children: false
 nav_exclude: false
 nav_order: 2
@@ -10,7 +10,7 @@ nav_order: 2
 >
 >Inspired by: *Cairn* by Yochai Gal, and *Ironsworn* by Shawn Tomkin.
 >
-> The full text is licensed by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0).
+> The full text of the Condensed SRD is licensed by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0). 
 
 # SYSTEM REFERENCE DOCUMENT
 
