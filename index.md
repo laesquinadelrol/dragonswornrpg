@@ -1,9 +1,10 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
-<img src="/imagenes/portada/cover.jpg" style="zoom:50%;" />
+<img src="/imagenes/portada/cover.jpg" style="zoom:20%;" />
 
 
 
