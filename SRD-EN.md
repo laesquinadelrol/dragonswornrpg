@@ -18,8 +18,16 @@ nav_order: 2
 > The full text of the Condensed SRD (Not Artwork or logo included) is licensed by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0). 
 
 # SYSTEM REFERENCE DOCUMENT
+{: .no_toc }
 
-[TOC]
+<details close markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## CHARACTER CREATION
 
