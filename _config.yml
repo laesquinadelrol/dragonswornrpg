@@ -10,3 +10,23 @@ aux_links:
 logo: /logo.png
 
 favicon_ico: /favicon.png
+
+# Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
+color_scheme: nil
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
