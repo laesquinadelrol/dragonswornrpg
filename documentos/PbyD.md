@@ -2,7 +2,7 @@
 layout: default
 title: Powered By Dragonsworns
 nav_order: 1
-permalink: /documentos/pbyd.md
+permalink: /documentos/Pbyd.md
 ---
 POWERED BY DRAGONSWORNS
  By La esquina del rol
