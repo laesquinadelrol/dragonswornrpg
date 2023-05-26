@@ -15,7 +15,7 @@ nav_order: 2
 >
 > Inspired by: *Cairn* by Yochai Gal, and *Ironsworn* by Shawn Tomkin.
 >
-> The full text of the Condensed SRD (Not Artwork included) is licensed by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0). 
+> The full text of the Condensed SRD (Not Artwork or logo included) is licensed by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0). 
 
 # SYSTEM REFERENCE DOCUMENT
 
