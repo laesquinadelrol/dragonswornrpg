@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
  <img src="/imagenes/portada/DAG-logo.png" style="zoom:20%;" />
- 
+
 > {: .highlight }
 >
 > You are a Dragonsworn. A member of the Weird Society of Dragonsworns. 
@@ -18,4 +18,4 @@ nav_order: 1
 > Some say you're doomed, but who isn't in this rotten  world of Plethora?
 
 [Condensed SRD in English](https://dragonswornrpg.com/SRD-EN.html){: .btn .btn-green }
-[SRD Condensado en Español](https://dragonswornrpg.com/SRD-EN.html){: .btn .btn-blue }
+[SRD Condensado en Español](https://dragonswornrpg.com/SRD-ES.html){: .btn .btn-blue }
