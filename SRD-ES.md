@@ -33,13 +33,13 @@ nav_order: 3
 
 ### Estadísticas principales
 
-Your **Player Character** (PC) has 3 **Stats**:
+Tu **persona jugadora** (PJ) tiene 3 **estadísticas**:
 
-●        **Strength**: Used for Saves requiring brawn, toughness or physical power
+●        **Fuerza**: Used for Saves requiring brawn, toughness or physical power
 
-●        **Dexterity**: Used for Saves requiring poise, reflexes or speed
+●        **Destreza**: Used for Saves requiring poise, reflexes or speed
 
-●        **Presence**: Used for Saves requiring charisma, sageness or willpower
+●        **Presencia**: Used for Saves requiring charisma, sageness or willpower
 
  To determine your PC’s Stats: roll three d6s once, compare the value of each die against the following table, then add +1 to the corresponding Stat. All three scores must add up to 3.
 
