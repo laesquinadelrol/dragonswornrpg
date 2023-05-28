@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Condensed SRD - English
+title: SRD condensado - Español
 has_children: false
 nav_exclude: false
-nav_order: 2
+nav_order: 3
 ---
 
  <img src="/imagenes/portada/DAG-logo.png" style="zoom:20%;" />
 
 {: .highlight }
-> The document is a condensed version of the **Dragonsworn Adventure Game** rules that you can use to create your own **Powered by Dragonsworns** solo and co-op fantasy games.
+> Este documento es una versión condensada de las reglas de **Dragonsworns juego de Aventura** que puedes usar para crear tus propios juegos de fantasía **Powered by Dragonsworns** en solitario o cooperativo.
 >
 > Written by La esquina del rol
 >
