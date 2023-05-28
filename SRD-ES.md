@@ -29,51 +29,51 @@ nav_order: 3
 {:toc}
 </details>
 
-## Creación del personaje
+## CREACIÓN DEL PERSONAJE 
 
-### Estadísticas principales
+### ESTADÍSTICAS PRINCIPALES 
 
 Tu **persona jugadora** (PJ) tiene 3 **estadísticas**:
 
-●        **Fuerza**: Se usa para salvaciones que requieren músculo,resistencia, o poder físico
+●        **Fuerza**: Se usa para salvaciones que requieren músculo, resistencia o poder físico
 
-●        **Destreza**: Se usa para salvaciones que requieren aplomo, reflejos, o velocidad
+●        **Destreza**: Se usa para salvaciones que requieren aplomo, reflejos o velocidad
 
 ●        **Presencia**: Se usa para salvaciones que requieren carisma, agudeza, fuerza de voluntad
 
- To determine your PC’s Stats: roll three d6s once, compare the value of each die against the following table, then add +1 to the corresponding Stat. All three scores must add up to 3.
+Para determinar las estadísticas de tu PJ: Tira tres d6 una sola vez, compara el valor de cada dado en la siguiente tabla y, luego, añade +1 a la estadística indicada. Las tres estadísticas deben sumar 3.
 
 | 1-2      | 3-4       | 5-6      |
 | -------- | --------- | -------- |
-| Strength | Dexterity | Presence |
+| Fuerza   | Destreza  | Presencia|
 
-> *e.g. Oliver rolled [3][5][6], the first die adds + 1 to Dexterity, and then the second and third dice both add +1 to Presence, for a total of Strength 0, Dexterity 1, and Presence 2.*
+> *p.ej. Oliver tiro [3][5][6], el primer dado añade +1 a destreza, el segundo y tercer dado añaden ambos +1 a presencia; para un total de fuerza 0, destreza 1 y presencia 2.*
+ 
+### ESTADÍSTICAS SECUNDARIAS 
 
-### SECONDARY STATS
+**Valor base** es un número que genera la **salud** de tu PJ, y su **número objetivo** (NO). Tira d6+6 para determinar el valor base de tu PJ. 
 
-**Base Value** is a number to generate your PC's **Health** and their **Target Number** (TN). Roll d6+6 to determine your PC's Base Value. 
+NO es un valor que se determina a partir de la suma del valor base del PJ y de la estadística que utilizarás en la salvación.
 
-TN is a value that is determined from the sum of the character’s Base Value and the current Stat that you will be used to Save.
+**Salud** representa la fuerza vital de tu PJ. Si disminuye a cero, tu PJ muere. La salud es igual al valor base + [fuerza] del PJ.
 
-**Health** is your PC's vital force. If it is reduced to zero, your PC dies. Health is equal to the character's base value + [Strength].
+**Coraje** refleja la habilidad de un PJ para evitar quedar herido o sufrir estrés. Coraje es igual a d6 + [destreza].
 
- **Courage** reflects a character’s ability to avoid getting hurt and suffering stress. Courage is equal to 1d6 + [Dexterity + Presence].
+### INVENTARIO
 
-### INVENTORY
+Tu PJ tiene 10 espacios + [Fuerza] de **inventario**. Solamente puede cargar 2 armas y 2 armaduras al mismo tiempo. Los **objetos voluminosos** ocupan dos espacios. Tu PJ no puede cargar más de tres objetos voluminosos.
 
-Your PC has 10 slots + [Strength] of **Inventory**. Only they can hold 2 weapons and 2 Armor. **Bulky Items** take up two slots. Your PC cannot carry more than three Bulky Items.
+Tu PJ comienza con un equipo aleatorio (ver ejemplo a continuación).
 
-Your character starting with one random equipment package (example below)
+> *p.ej. tres días de raciones, equipo de exploración, esquipo de escalada, brigandine (1 armadura, voluminosa), yelmo (+1 armadura), espada larga (d10 daño, voluminosa), y artefacto mágico.*
 
-> *E.g. three days rations, exploring gear, climbing gear, brigandine (1 armor, bulky), helmet (+1 armor), long sword (d10 damage, bulky), and Magic Artifact.*
+### Toques finales
 
-### FINISHING TOUCHES
+Nombra a tu PJ y escribe algunos **rasgos** (p.ej. trasfondo, virtud, defecto, etc.).
 
-Name your PC, and write some **Traits** (e. g. background, virtue, vice, etc.).
+## Reglas
 
-## RULES
-
-### SAVES
+### SAlVACIONES
 
 A Save is a roll to avoid bad outcomes from risky actions and situations (even in combat maneuvers). When making a Save, go through the following: 
 
