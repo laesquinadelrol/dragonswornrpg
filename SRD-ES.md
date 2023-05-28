@@ -15,7 +15,7 @@ nav_order: 3
 >
 > Inspirado en: *Cairn* por Yochai Gal, y *Ironsworn* por Shawn Tomkin.
 >
-> El texto completo del SRD condesnado (No incluye el arte ni el logo) está licenciado con [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0). 
+> El texto completo del SRD condensado (No incluye el arte ni el logo) está licenciado con [CC-BY-4.0 International](https://creativecommons.org/licenses/by/4.0). 
 
 # DOCUMENTO DE REFERENCIA DEL SISTEMA
 {: .no_toc }
@@ -35,11 +35,11 @@ nav_order: 3
 
 Tu **persona jugadora** (PJ) tiene 3 **estadísticas**:
 
-●        **Fuerza**: Used for Saves requiring brawn, toughness or physical power
+●        **Fuerza**: Se usa para salvaciones que requieren músculo,resistencia, o poder físico
 
-●        **Destreza**: Used for Saves requiring poise, reflexes or speed
+●        **Destreza**: Se usa para salvaciones que requieren aplomo, reflejos, o velocidad
 
-●        **Presencia**: Used for Saves requiring charisma, sageness or willpower
+●        **Presencia**: Se usa para salvaciones que requieren carisma, sageness, fuerza de voluntad
 
  To determine your PC’s Stats: roll three d6s once, compare the value of each die against the following table, then add +1 to the corresponding Stat. All three scores must add up to 3.
 
