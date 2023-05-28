@@ -9,15 +9,15 @@ nav_order: 3
  <img src="/imagenes/portada/DAG-logo.png" style="zoom:20%;" />
 
 {: .highlight }
-> Este documento es una versión condensada de las reglas de **Dragonsworns juego de Aventura** que puedes usar para crear tus propios juegos de fantasía **Powered by Dragonsworns** en solitario o cooperativo.
+> Este documento es una versión condensada de las reglas de **Dragonsworns juego de aventura** que puedes usar para crear tus propios juegos de fantasía **Powered by Dragonsworns** en solitario o cooperativo.
 >
-> Written by La esquina del rol
+> Escrito por La esquina del rol
 >
-> Inspired by: *Cairn* by Yochai Gal, and *Ironsworn* by Shawn Tomkin.
+> Inspirado en: *Cairn* por Yochai Gal, y *Ironsworn* por Shawn Tomkin.
 >
-> The full text of the Condensed SRD (Not Artwork or logo included) is licensed by [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0). 
+> El texto completo del SRD condesnado (No incluye el arte ni el logo) está licenciado con [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0). 
 
-# DOCUMENTO DE REFERENCIAS DEL SISTEMA
+# DOCUMENTO DE REFERENCIA DEL SISTEMA
 {: .no_toc }
 
 <details close markdown="block">
@@ -29,9 +29,9 @@ nav_order: 3
 {:toc}
 </details>
 
-## CHARACTER CREATION
+## Creación del personaje
 
-### MAIN STATS
+### Estadísticas principales
 
 Your **Player Character** (PC) has 3 **Stats**:
 
