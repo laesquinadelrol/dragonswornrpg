@@ -39,7 +39,7 @@ Tu **persona jugadora** (PJ) tiene 3 **estadísticas**:
 
 ●        **Destreza**: Se usa para salvaciones que requieren aplomo, reflejos, o velocidad
 
-●        **Presencia**: Se usa para salvaciones que requieren carisma, sageness, fuerza de voluntad
+●        **Presencia**: Se usa para salvaciones que requieren carisma, agudeza, fuerza de voluntad
 
  To determine your PC’s Stats: roll three d6s once, compare the value of each die against the following table, then add +1 to the corresponding Stat. All three scores must add up to 3.
 
