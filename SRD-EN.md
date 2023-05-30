@@ -67,7 +67,9 @@ Your character starting with one random equipment package (example below)
 
 > *E.g. three days rations, exploring gear, climbing gear, brigandine (1 armor, bulky), helmet (+1 armor), long sword (d10 damage, bulky), and Magic Artifact.*
 
-{: .highlight }
+```
+{: .new }
+```
 
 > Choose or roll d20 for each category
 >
@@ -80,10 +82,10 @@ Your character starting with one random equipment package (example below)
 > |  5-6  | Alchemist gear (1 slot) & exploring gear (1 slot)     |
 > |  7-8  | Helear gear (1 slot) & religious gear (1 slot)        |
 > | 9-10  | Hunting gear (1 slot) & camping gear (1 slot)         |
-> | 11-12 | craft gear (1 slot) & scouting gear (1 slot)          |
+> | 11-12 | Craft gear (1 slot) & scouting gear (1 slot)          |
 > | 13-14 | Exploring gear (1 slot) & climbing gear (1 slot)      |
-> | 15-16 | enterteiment gear  (1 slot) & magic artifact (1 slot) |
-> | 17-18 | camping gear (1 slot) & magic artifact (1 slot)       |
+> | 15-16 | Enterteiment gear  (1 slot) & magic artifact (1 slot) |
+> | 17-18 | Camping gear (1 slot) & magic artifact (1 slot)       |
 > | 19-20 | Exploring gear (1 slot) & magic artifact (1 slot)     |
 >
 > 
