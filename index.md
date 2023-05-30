@@ -7,15 +7,12 @@ nav_order: 1
 
 > {: .highlight }
 >
-> You are a Dragonsworn. A member of the Weird Society of Dragonsworns. 
->
-> Your main quest is to explore, discover and recover the relics and treasures of the ancient dragons.
->
-> Your story takes place 311 years after the fall of the last great dragon of the north. Their legend have fallen into oblivion. The world has moved on and covered with dust the old relics and treasures awaiting for their blood heirs.
->
-> You were recruited like everyone else. An old wise dragon kin awakened in you that obsession to leave everything and fulfill the goals of the society. 
->
-> Some say you're doomed, but who isn't in this rotten  world of Plethora?
+> Very few people risk going beyond the horizon of the valley where they were born, but you are a different person. You are a Dragonsworn. You are a member of the strange secret society of the Dragonsworns, an ancient guild of explorers and raiders of Pletora. It is the ancient legends of great treasures, monsters and incredible ruined cities that motivate and obsess you to go out into the world. Some say that this insatiable desire is a condemnation hanging over your head, but who isn't condemned in one way or another in this world?
 
 [Condensed SRD in English](https://dragonswornrpg.com/SRD-EN.html){: .btn .btn-green }
+
+> {: .highlight }
+>
+> Muy pocas personas se arriesgan a ir más allá del horizonte del valle donde nacieron, pero tú eres una persona diferente. Eres un Dragonsworn. Eres miembro de la extraña sociedad secreta de los dragonsworns, un antiguo gremio de exploradores e incursores de Pletora. Son las antiguas leyendas de grandes tesoros, monstruos e increíbles ciudades en ruinas las que te motivan y obsesionan para salir al mundo. Algunos dicen que este deseo insaciable es una condena que pesa sobre tu cabeza, pero ¿quién no está condenado de un modo u otro en este mundo?
+
 [SRD Condensado en Español](https://dragonswornrpg.com/SRD-ES.html){: .btn .btn-blue }
