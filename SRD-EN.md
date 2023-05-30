@@ -63,7 +63,7 @@ TN is a value that is determined from the sum of the character’s Base Value an
 
 Your PC has 10 slots + [Strength] of **Inventory**. Only they can hold 2 weapons and 2 Armor. **Bulky Items** take up two slots. Your PC cannot carry more than three Bulky Items.
 
-Your character starting with one random equipment package (example below)
+Your character starting with one random equipment package (example below). 
 
 > *E.g. three days rations, exploring gear, climbing gear, brigandine (1 armor, bulky), helmet (+1 armor), long sword (d10 damage, bulky), and Magic Artifact.*
 
@@ -71,7 +71,7 @@ Your character starting with one random equipment package (example below)
 
 {: .new }
 
-> Choose or roll d20 for each category
+> Choose or roll d20 for each category. Your PC always starting with three day rations.
 >
 > #### Starting Gear package
 >
