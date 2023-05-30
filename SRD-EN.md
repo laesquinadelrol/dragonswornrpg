@@ -69,6 +69,23 @@ Your character starting with one random equipment package (example below)
 
 Choose or roll d20 for each categorie
 
+#### Starting Gear package
+
+| d20   | Starting Gear package                                 |
+| ----- | ----------------------------------------------------- |
+| 1-2   | None                                                  |
+| 3-4   | Thief gear (1 slot) &  disguised gear (1 slot)        |
+| 5-6   | Alchemist gear (1 slot) & exploring gear (1 slot)     |
+| 7-8   | Helear gear (1 slot) & religious gear (1 slot)        |
+| 9-10  | Hunting gear (1 slot) & camping gear (1 slot)         |
+| 11-12 | craft gear (1 slot) & scouting gear (1 slot)          |
+| 13-14 | Exploring gear (1 slot) & climbing gear (1 slot)      |
+| 15-16 | enterteiment gear  (1 slot) & magic artifact (1 slot) |
+| 17-18 | camping gear (1 slot) & magic artifact (1 slot)       |
+| 19-20 | Exploring gear (1 slot) & magic artifact (1 slot)     |
+
+
+
 #### Armor
 
 |  |            |           |       |
@@ -90,42 +107,14 @@ Choose or roll d20 for each categorie
 |          1-5          |       6-14       |          15-19           |               20               |
 | Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
 
-#### Expeditionary Gear
-
-|      |                        |      |                |      |             |      |             |
-| ---- | ---------------------- | ---- | -------------- | ---- | ----------- | ---- | ----------- |
-| 1    | Air Bladder            | 6    | Fire Oil       | 11   | Manacles    | 16   | Rope (25ft) |
-| 2    | Antitoxin              | 7    | Grappling Hook | 12   | Pick        | 17   | Spirit Ward |
-| 3    | Cart (+4 slots, bulky) | 8    | Large Sack     | 13   | Pole (10ft) | 18   | Spyglass    |
-| 4    | Chain (10ft)           | 9    | Large Trap     | 14   | Pulley      | 19   | Tinderbox   |
-| 5    | Dowsing Rod            | 10   | Lockpicks      | 15   | Repellent   | 20   | Wolfsbane   |
-
-#### Tools
-
-|      |          |      |                |      |            |      |         |
-| ---- | -------- | ---- | -------------- | ---- | ---------- | ---- | ------- |
-| 1    | Bellows  | 6    | Cook Pots      | 11   | Grease     | 16   | Net     |
-| 2    | Bucket   | 7    | Crowbar        | 12   | Hammer     | 17   | Saw     |
-| 3    | Caltrops | 8    | Drill (Manual) | 13   | Hour Glass | 18   | Sealant |
-| 4    | Chalk    | 9    | Fishing Rod    | 14   | Metal File | 19   | Shovel  |
-| 5    | Chisel   | 10   | Glue           | 15   | Nails      | 20   | Tongs   |
-
-#### Trinkets
-
-|      |             |      |            |      |             |      |         |
-| ---- | ----------- | ---- | ---------- | ---- | ----------- | ---- | ------- |
-| 1    | Bottle      | 6    | Horn       | 11   | Mirror      | 16   | Soap    |
-| 2    | Card Deck   | 7    | Incense    | 12   | Perfume     | 17   | Sponge  |
-| 3    | Dice Set    | 8    | Instrument | 13   | Quill & Ink | 18   | Tar Pot |
-| 4    | Face Paint  | 9    | Lens       | 14   | Salt Pack   | 19   | Twine   |
-| 5    | Fake Jewels | 10   | Marbles    | 15   | Small Bell  | 20   | Whistle |
+#### 
 
 #### 																		Bonus Item (roll on table indicated)
 
-|                  |                    |                 |               |
-| :--------------: | :----------------: | :-------------: | :-----------: |
-|       1-5        |        6-13        |      14-17      |     18-20     |
-| Tool or  Trinket | Expeditionary Gear | Armor or Weapon | Magic Artifac |
+|                       |       |        |               |
+| :-------------------: | :---: | :----: | :-----------: |
+|          1-5          | 6-13  | 14-17  |     18-20     |
+| Starting Gear package | Armor | Weapon | Magic Artifac |
 
 
 
