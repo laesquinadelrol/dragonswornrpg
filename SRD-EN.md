@@ -43,8 +43,8 @@ Your **Player Character** (PC) has 3 **Stats**:
 
  To determine your PC’s Stats: roll three d6s once, compare the value of each die against the following table, then add +1 to the corresponding Stat. All three scores must add up to 3.
 
-| 1-2      | 3-4       | 5-6      |
-| -------- | --------- | -------- |
+|   1-2    |    3-4    |   5-6    |
+| :------: | :-------: | :------: |
 | Strength | Dexterity | Presence |
 
 > *e.g. Oliver rolled [3][5][6], the first die adds + 1 to Dexterity, and then the second and third dice both add +1 to Presence, for a total of Strength 0, Dexterity 1, and Presence 2.*
@@ -66,6 +66,21 @@ Your PC has 10 slots + [Strength] of **Inventory**. Only they can hold 2 weapons
 Your character starting with one random equipment package (example below)
 
 > *E.g. three days rations, exploring gear, climbing gear, brigandine (1 armor, bulky), helmet (+1 armor), long sword (d10 damage, bulky), and Magic Artifact.*
+
+{: .highlight }
+
+> Choose or Roll d6 to determine your PC's equipment package.
+>
+> |  d6  | Equipment package                                            |
+> | :--: | :----------------------------------------------------------- |
+> |  1   | three days rations, exploring gear, climbing gear, brigandine (1 armor, bulky), helmet (+1 armor), long sword (d10 damage, bulky), and Magic Artifact. |
+> |  2   |                                                              |
+> |  3   |                                                              |
+> |  4   |                                                              |
+> |  5   |                                                              |
+> |  6   |                                                              |
+
+
 
 ### FINISHING TOUCHES
 
