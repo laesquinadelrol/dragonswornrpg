@@ -69,16 +69,7 @@ Your character starting with one random equipment package (example below)
 
 {: .highlight }
 
-> Choose or Roll d6 to determine your PC's equipment package.
->
-> |  d6  | Equipment package                                            |
-> | :--: | :----------------------------------------------------------- |
-> |  1   | three days rations, exploring gear, climbing gear, brigandine (1 armor, bulky), helmet (+1 armor), long sword (d10 damage, bulky), and Magic Artifact. |
-> |  2   |                                                              |
-> |  3   |                                                              |
-> |  4   |                                                              |
-> |  5   |                                                              |
-> |  6   |                                                              |
+
 
 
 
