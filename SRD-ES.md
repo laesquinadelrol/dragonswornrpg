@@ -6,7 +6,7 @@ nav_exclude: false
 nav_order: 3
 ---
 
- <img src="/imagenes/portada/DAG-logo.png" style="zoom:20%;" />
+ <img src="/imagenes/portada/DAG-LOGOES.png" style="zoom:20%;" />
 
 {: .highlight }
 > Este documento es una versión condensada de las reglas de **Dragonsworns juego de aventura** que puedes usar para crear tus propios juegos de fantasía **Powered by Dragonsworns** en solitario o cooperativo.
@@ -48,7 +48,7 @@ Para determinar las estadísticas de tu PJ: Tira tres d6 una sola vez, compara e
 | Fuerza   | Destreza  | Presencia|
 
 > *p.ej. Oliver tiro [3][5][6], el primer dado añade +1 a destreza, el segundo y tercer dado añaden ambos +1 a presencia; para un total de fuerza 0, destreza 1 y presencia 2.*
- 
+
 ### ESTADÍSTICAS SECUNDARIAS 
 
 **Valor base** es un número que genera la **salud** de tu PJ, y su **número objetivo** (NO). Tira d6+6 para determinar el valor base de tu PJ. 
