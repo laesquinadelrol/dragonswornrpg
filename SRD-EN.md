@@ -69,7 +69,7 @@ Your character starting with one random equipment package (example below)
 
 
 
-{: .highlight }
+{: .new }
 
 > Choose or roll d20 for each category
 >
