@@ -67,54 +67,55 @@ Your character starting with one random equipment package (example below)
 
 > *E.g. three days rations, exploring gear, climbing gear, brigandine (1 armor, bulky), helmet (+1 armor), long sword (d10 damage, bulky), and Magic Artifact.*
 
-Choose or roll d20 for each categorie
+{: .highlight }
 
-#### Starting Gear package
-
-| d20   | Starting Gear package                                 |
-| ----- | ----------------------------------------------------- |
-| 1-2   | None                                                  |
-| 3-4   | Thief gear (1 slot) &  disguised gear (1 slot)        |
-| 5-6   | Alchemist gear (1 slot) & exploring gear (1 slot)     |
-| 7-8   | Helear gear (1 slot) & religious gear (1 slot)        |
-| 9-10  | Hunting gear (1 slot) & camping gear (1 slot)         |
-| 11-12 | craft gear (1 slot) & scouting gear (1 slot)          |
-| 13-14 | Exploring gear (1 slot) & climbing gear (1 slot)      |
-| 15-16 | enterteiment gear  (1 slot) & magic artifact (1 slot) |
-| 17-18 | camping gear (1 slot) & magic artifact (1 slot)       |
-| 19-20 | Exploring gear (1 slot) & magic artifact (1 slot)     |
-
-
-
-#### Armor
-
-|  |            |           |       |
-| :---: | :--------: | :-------: | :---: |
-|  1-3  |    4-14    |   15-19   |  20   |
-| None  | Brigandine | Chainmail | Plate |
-
-#### Helmets & Shields
-
-|  |        |        |                 |
-| :---------------: | :----: | :----: | :-------------: |
-|       1-13        | 14-16  | 17-19  |       20        |
-|       None        | Helmet | Shield | Helmet & Shield |
-
-#### Weapons
-
-|                |                  |                          |                                |
-| :-------------------: | :--------------: | :----------------------: | :----------------------------: |
-|          1-5          |       6-14       |          15-19           |               20               |
-| Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
-
-#### 
-
-#### 																		Bonus Item (roll on table indicated)
-
-|                       |       |        |               |
-| :-------------------: | :---: | :----: | :-----------: |
-|          1-5          | 6-13  | 14-17  |     18-20     |
-| Starting Gear package | Armor | Weapon | Magic Artifac |
+> Choose or roll d20 for each category
+>
+> #### Starting Gear package
+>
+> |  d20  | Starting Gear package                                 |
+> | :---: | :---------------------------------------------------- |
+> |  1-2  | None                                                  |
+> |  3-4  | Thief gear (1 slot) &  disguised gear (1 slot)        |
+> |  5-6  | Alchemist gear (1 slot) & exploring gear (1 slot)     |
+> |  7-8  | Helear gear (1 slot) & religious gear (1 slot)        |
+> | 9-10  | Hunting gear (1 slot) & camping gear (1 slot)         |
+> | 11-12 | craft gear (1 slot) & scouting gear (1 slot)          |
+> | 13-14 | Exploring gear (1 slot) & climbing gear (1 slot)      |
+> | 15-16 | enterteiment gear  (1 slot) & magic artifact (1 slot) |
+> | 17-18 | camping gear (1 slot) & magic artifact (1 slot)       |
+> | 19-20 | Exploring gear (1 slot) & magic artifact (1 slot)     |
+>
+> 
+>
+> #### Armor
+>
+> |  |            |           |       |
+> | :---: | :--------: | :-------: | :---: |
+> |  1-3  |    4-14    |   15-19   |  20   |
+> | None  | Brigandine | Chainmail | Plate |
+>
+> #### Helmets & Shields
+>
+> |  |        |        |                 |
+> | :---------------: | :----: | :----: | :-------------: |
+> |       1-13        | 14-16  | 17-19  |       20        |
+> |       None        | Helmet | Shield | Helmet & Shield |
+>
+> #### Weapons
+>
+> |                |                  |                          |                                |
+> | :-------------------: | :--------------: | :----------------------: | :----------------------------: |
+> |          1-5          |       6-14       |          15-19           |               20               |
+> | Dagger, Cudgel, Staff | Sword, Mace, Axe | Bow, Crossbow, Sling | Halberd, War Hammer, Battleaxe |
+>
+> #### 																		Bonus Item (roll on table indicated)
+>
+> |                       |       |        |               |
+> | :-------------------: | :---: | :----: | :-----------: |
+> |          1-5          | 6-13  | 14-17  |     18-20     |
+> | Starting Gear package | Armor | Weapon | Magic Artifac |
+>
 
 
 
