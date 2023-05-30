@@ -67,12 +67,6 @@ Your character starting with one random equipment package (example below)
 
 > *E.g. three days rations, exploring gear, climbing gear, brigandine (1 armor, bulky), helmet (+1 armor), long sword (d10 damage, bulky), and Magic Artifact.*
 
-{: .highlight }
-
-
-
-
-
 ### FINISHING TOUCHES
 
 Name your PC, and write some **Traits** (e. g. background, virtue, vice, etc.).
