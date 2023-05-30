@@ -33,7 +33,7 @@ nav_order: 2
 
 ### MAIN STATS
 
-Your **Player Character** (PC) has 3 **Stats**:
+Your **Playable Character** (PC) has 3 **Stats**:
 
 ●        **Strength**: Used for Saves requiring brawn, toughness or physical power
 

@@ -33,7 +33,7 @@ nav_order: 3
 
 ### ESTADÍSTICAS PRINCIPALES 
 
-Tu **persona jugadora** (PJ) tiene 3 **estadísticas**:
+Tu **personaje jugable** (PJ) tiene 3 **estadísticas**:
 
 ●        **Fuerza**: Se usa para salvaciones que requieren músculo, resistencia o poder físico
 
@@ -63,35 +63,31 @@ NO es un valor que se determina a partir de la suma del valor base del PJ y de l
 
 Tu PJ tiene 10 espacios + [Fuerza] de **inventario**. Solamente puede cargar 2 armas y 2 armaduras al mismo tiempo. Los **objetos voluminosos** ocupan dos espacios. Tu PJ no puede cargar más de tres objetos voluminosos.
 
-Tu PJ comienza con un equipo aleatorio (ver ejemplo a continuación).
+Tu PJ comienza con un equipo asignado aleatoriamente (ver ejemplo a continuación).
 
 > *p.ej. tres días de raciones, equipo de exploración, esquipo de escalada, brigandine (1 armadura, voluminosa), yelmo (+1 armadura), espada larga (d10 daño, voluminosa), y artefacto mágico.*
 
-### Toques finales
+### TOQUES FINALES
 
 Nombra a tu PJ y escribe algunos **rasgos** (p.ej. trasfondo, virtud, defecto, etc.).
 
-## Reglas
+## REGLAS
 
-### SAlVACIONES
+### SALVACIONES
 
-A Save is a roll to avoid bad outcomes from risky actions and situations (even in combat maneuvers). When making a Save, go through the following: 
+Una salvación es una tirada para evitar recibir malas consecuencias por acciones y situaciones riesgosas (incluso en las maniobras de combate). Cuando hagas una salvación, haz lo siguiente:
 
-1. Roll two d20s.
+1. Tira dos d20s.
+2. Cada d20 igual o menor a tu NO equivale a un solo **éxito**, y cada dado que tenga 1 es un **éxito crítico** que equivale a dos éxitos en vez de uno.
+3. Cada dado por encima de tu NO equivale a una **falla**. Si obtienes un resultado de 19 o 20 en cualquier dado, equivale a una **falla crítica** y significa un **fracaso** en la salvación, independientemente del número de éxitos obtenidos en el paso anterior. 
+4. Interpreta el resultado de tu tirada:
+   - *2+ éxitos* es un **éxito completo**. Evitas cualquier consecuencia de tus actos.
 
-2. Each d20 that is equal to or under your TN scores a single **success**, and each die that rolled 1 is a **Critical Success** that scores two successes instead of one.
+   - *1 éxito es* un **éxito parcial**. Evitas una parte de las consecuencias de tus actos, con un coste o efecto menor.
 
-3. For each die above your TN, you score a single failure. If you rolled a 19 or 20, you score a **Critical Failure** and it means that you automatically **Fail** the Save, regardless of the number of successes rolled.
+   - *2+ fallas son un **fracaso**. Tendrás que enfrentar las consecuencias de tus actos, o tendrás que hacer concesiones serias.
 
-4. Interpreting your results:
-
-   - *2+ successes* are a **Strong Hit**. You avoid any bad consequences.
-
-   - *1 success is* a **Weak Hit**. You partially avoid any bad consequence, but with a cost or lesser effect.
-
-   - *2+ failures* are a **Fail**. You will face any bad consequences of your actions, or must make serious concessions.
-
-### ENCUMBRANCE & BULKY ITEMS
+### CARGA Y OBJETOS VOLUMINOSOS
 
 If your PC is carrying their full inventory or carries more than 3 bulky items, their Courage is reduced to zero
 
@@ -125,7 +121,7 @@ Describe the attacker’s action, roll their **Weapon Die** (d6, d8, or d10), an
 
 When the target's Health decreases, they must make a Strength Save to avoid a **Critical Wound**, which means they are out of combat. They will need help to survive, or they will die within the hour. Otherwise, if the target hit the Save, they suffer an annoying scar in the fiction, but continue in the fray.
 
-**Advantage Attacks** always do d12 damage, and **D****isadvantage Attacks** always do d4. This is independent of the attacker’s Weapon Dice. **Unarmed Attacks** always do d4 damage.
+**Advantage Attacks** always do d12 damage, and **Disadvantage Attacks** always do d4. This is independent of the attacker’s Weapon Dice. **Unarmed Attacks** always do d4 damage.
 
 ### MULTIPLE ATTACKERS
 
