@@ -71,7 +71,7 @@ Your character starting with one random equipment package (example below).
 
 {: .new }
 
-> Choose or roll d20 for each category. Your PC always starting with three day rations.
+> Choose or roll d20 for each category. Your PC always starting with three day rations (1 slot), and exploration package (1 slot).
 >
 > #### Starting Gear package
 >
